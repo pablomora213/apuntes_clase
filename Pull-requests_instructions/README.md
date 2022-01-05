@@ -64,7 +64,7 @@ Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el títu
 
 Una vez hecha la *pull resquest* puedes continuar resolviendo el lab. 
 
-Cada poco tiempo (cuando resuelvas un ejercicio complicado o lleves 3 o 4 ejercicios) acuerdate de repetir el paso 5 para que tus cambios se vayan subiendo a GitHub.
+Cada poco tiempo (cuando resuelvas un ejercicio complicado o lleves 3 o 4 ejercicios) acuérdate de repetir el paso 5 para que tus cambios se vayan subiendo a GitHub.
 
 Puedes repetir el paso 5 tantas veces como quieras, y tus cambios quedarán actualizados en GitHub. De esta manera cuando revisemos tu pull request, podremos ver la última versión de tu lab.
 
