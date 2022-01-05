@@ -1,5 +1,5 @@
 # Apuntes de clase 
-### Apuntes de clase DataMad0121
+### Apuntes de clase DataMad0122
 
 <img align="right" width="100" height="100" src="https://github.com/Ironhack-Data-Madrid-Agosto-2021/classroom-materials/blob/main/images/logo.png">
 
